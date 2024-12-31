@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="108px" height="96px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip641">
+      <path d="M 382 723  C 373.675 723  367 716.325  367 708  L 367 642  C 367 633.675  373.675 627  382 627  L 460 627  C 468.325 627  475 633.675  475 642  L 475 708  C 475 716.325  468.325 723  460 723  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -367 -627 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="108" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAA9CAYAAAD7/KSFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARPSURBVHhe7ZtBbrJMHId/lhGEWNCmXXCBHgCvYdK1SbdtXPcAzZdum3Rt0lOQ2AO4NcEDeAEWbapYAiqg70YNzEcFBtT2fXl2/Q018Djzn2HAiqIoa5REOKODklJKLKWUGEopMVSOVWgJIahWq6hWqyCEgBCCs7Pod7JareD7Pnzfh+d58DwPvu9HjjkGB5VCCEGtVoMoiuA4jm5ORRAEcF0X8/n8aIIOIoXneUiShFqtRjflYj6fw3EcLJdLuqlQCpXCcRzq9TpEUaSbCsV1Xdi2jSAI6KZCKEyKKIpQFIWOD4plWXBdl45zU8jsI8vy0YUAgKIokGWZjnOTS0qlUkGz2YQkSXTT0ZAkCc1mE5VKhW5ihlnKVoggCHTT0REEoVAxzFIajQZ4nqfjk8HzPBqNBh0zwSRFluUf0UNoBEEopMZkliKK4klrSBKSJOVeEmSSwnHcSWaZrCiKwryCRlYp9Xqdjn4sec41tRSe53N3yzhUVYWmaXScG1EUmSeC1FKKriOapkHXdei6jl6vB13XC5fDes6plvmEEFxeXtIxM6qqQtd1OoZpmuh2uzBNk25i5uPjI/PddaqeUvTd7t3dHR0BG1ntdpuOc8Fy7qmkHKKWfEfRQ4jl3BOlEEJyTW9xqKpKRweD4zgQQuh4L4lSqtUqHf06sl5DKSWGRClZu95PJOs1lFJiSJRCP4b4jWS9hmxH/yMcXIqqqhgOh6nXH+HVbLvdxnA4jLQfg4NLMU0ThmGg1Wrtsre3t8gxYUajUeTvIpf8aUmUslqt6IiJcE/p9/vo9/uRdgAwDCOSa5oGwzAix7CQ9Rq4Wq32Hx2GEQQh94p2NBqh0+lgPB7vvvnBYADTNPH19YXxeIzBYICnp6fd/2iahoeHB7y8vOTuLZ7nZXo+lHiXLMsy8y14mMfHR7RaLdzc3NBNsei6DsMwIqJYcRwHs9mMjr8lcfh4nkdHTLy+vgKbi91XdMPbCkUIAcM1JA4f5NisCWPbNgaDAQDg/v4e19fXOD8/320bdjodtFotPD8/Yzwe4/b2lvoEdmzbzlRXEocPAFxdXeWuK2G2+ybhfRXTNNHv92EYxv9moDwEQYD393c63ksqKfV6PddG8HdomoZerwcA6Ha7hcrYYts2bNum470k1hRs3gv5rbCceyopvu8zffipYX37KdXwweYRx8XFBR3nQlXV3S7cIYbO5+cn01tPqaVg8+SNZc/zFLiuC8uy6DgVqYbPlqwF65TkOddMUoIgYLZ/TCzLyvU+XCYp2HRLx3Ho+MfgOE6m+5w4MksBgNlshsViQccnZ7FYZLrH+Q4mKQAwnU6ZKvuhWC6XmE6ndMwEs5T1eo3JZPIjesxiscBkMsF6nXoi3QuzFITEnLLGOI5TqBDklbJlNpudZFayLKuQGkKTafGWRPka+h7KHyzsofxpSwLlj6B+OYXMPn8bpZQYSikxlFJiKKXE8AfVlLq9W8G/fwAAAABJRU5ErkJggg==" x="367px" y="627px" mask="url(#clip641)" />
+  </g>
+</svg>
